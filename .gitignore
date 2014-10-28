@@ -1,3 +1,5 @@
 *.pyc
 *.coverage
 *.sh
+*.xml
+
